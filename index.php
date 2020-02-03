@@ -1,7 +1,7 @@
 <?php
-echo "Hello World!";
-echo "Thailand";
-echo "hi";
-echo "Thanathorn Charoenphon";
-echo "Jarupong Taengsri"
+echo "Hello World!";<br>
+echo "Thailand";<br>
+echo "hi";<br>
+echo "Thanathorn Charoenphon";<br>
+echo "Jarupong Taengsri"<br>
 ?>
